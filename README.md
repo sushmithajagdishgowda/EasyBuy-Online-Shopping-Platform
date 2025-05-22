@@ -1,8 +1,9 @@
 # EasyBuy-Online-Shopping-Platform
-An e-commerce web application enabling seamless online shopping with user authentication, product browsing, cart management, order processing, and an admin dashboard. Built using Angular, Node.js, and SQL in a Three-Tier Architecture.
 
-📌 #Project Overview
-EasyBuy is a full-featured e-commerce platform designed for smooth online shopping. It supports features like user registration and login, product browsing, cart and order management, and an admin dashboard for inventory and user control.
+📌 #Project Overview: 
+
+EasyBuy is an e-commerce application enabling seamless online shopping with user authentication, product browsing, cart management, order processing, and an admin dashboard. Built using Angular, Node.js, and SQL in a Three-Tier Architecture.
+
 
 🚀 #Features:
 
