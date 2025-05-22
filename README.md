@@ -11,11 +11,13 @@ EasyBuy is an e-commerce application enabling seamless online shopping with user
 🛒 Product Browsing & Search
 🧺 Shopping Cart (Add, remove, and update items)
 📦 Order Placement (with email notifications)
+💳 Secure Payment Integration
+📧 Email Notifications for order confirmations
 📈 Admin Panel
 - Manage products (CRUD operations)
 - View and manage users
 - View orders and inventory
-📧 Email Notifications for order confirmations
+
 
 🛠️ #Technologies Used :
 
